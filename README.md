@@ -1,0 +1,2 @@
+# 14-Switch-Case
+Kullanım alanı if karar yapısına göre daha az olan switch case yapısı, if karar yapısından daha hızlı çalışır. Switch case kullanarak yapabileceğimiz tüm işlemleri IF Else – Else IF karar yapısı ile yapabiliriz. Fakat kullanılabildiği durumlarda Switch Case daha fazla performans sağlayacaktır. Switch Case verilen değeri yapı içerisinde işaretleyerek gelen değere göre doğrudan yönlendirme yapar.
